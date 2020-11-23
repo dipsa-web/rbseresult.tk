@@ -1,1 +1,52 @@
-# rbseresult.tk
+	<!doctype>
+	<html>
+	<head><title>DEEP RESULTS</title>
+	<link href="css.css" rel="stylesheet" type="text/css">
+	
+	<script data-ad-client="ca-pub-7296087324800214" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	
+	</head>
+	<body><h1>All Rbse results are here</h1><br>
+	<img src="Xender/D6.jpg">
+	<img src="Xender/D7.jpg">
+	
+	<div id="outer">
+	
+	<div id="result">
+	<b><h1><a href="http://rajresults.nic.in" >➡️10 RBSE result</a></h1></b>
+	<b> <h1><a href="http://result.predeled.com" >➡️BSTC result</a></h1></b>
+	<b><h1><a href="http://rajresults.nic.in" >➡️12 RBSE result {all}</a></h1></b>
+	<b><h1><a href="http://rajeduboard.rajasthan.gov.in" >➡️Supplementary result</a></h1></b>
+	
+	
+	
+	
+	<marquee><h3> for any queries contact with us</h3></marquee>
+	
+	
+	</div>
+	
+	
+	<div id="address"> 
+	<b> contact with us by ➡️
+	<h4>gmail- <b>dipeshdaver960@gmail.com</b></h4>
+	</div></div>
+	</b>
+	<button class="btn"><a href="dipsa.html" >REGISTRATION</button></a>
+	
+	
+	
+	
+	
+	
+	<script type='text/javascript' src='//jelqr4dqeep7.com/34/e7/ea/34e7eacb859a1ad969d642991dd1c786.js'></script>
+	
+	<marquee>
+	<b>
+	<p>Thanks for visit</p></marquee></b>
+	
+	<h1>Founder- Dipesh</h1>
+	
+	
+	
+	</body></html>
