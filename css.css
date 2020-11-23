@@ -1,0 +1,66 @@
+img{
+width:10%;
+height:70px;
+
+}
+
+#outer {
+width:100%;
+height:900px;
+background-color:pink;
+}
+#result{
+width:100%;
+height:800px;
+background-image:url(Xender/D2.jpg);
+background-size:100%;
+pointer-events:hover;
+text-align:left;
+}
+h1 a{
+
+text-decoration:none;
+color:white;
+
+
+
+}
+
+
+h3 {
+margin-top:20%;
+ color:gold;
+}
+
+#address{
+width:40%;
+float:right;
+color:black;
+
+}
+h4{
+
+color:green;
+
+}
+p{
+color:blue;
+
+}
+.btn{
+
+margin-left:50%;
+
+}
+.btn a{
+text-decoration:none;
+color:black;
+
+
+}
+.form{
+
+height:30%;
+
+
+}
